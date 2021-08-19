@@ -194,3 +194,7 @@ body {
     background-color:#4CAF50;
     color: white;
 }
+#loginbox table, th, td{
+        border:0px solid #868585;
+    
+}
