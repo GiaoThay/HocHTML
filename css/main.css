@@ -178,3 +178,19 @@ body {
     color: #000;
     
 }
+#post #bang table, th, td{
+    border:1px solid #868585;
+}
+#post table{
+    border-collapse:collapse;
+}
+#post table tr:nth-child(odd){
+    background-color:#eee;
+}
+#post  table tr:nth-child(even){
+    background-color:white;
+}
+#post table tr:nth-child(1){
+    background-color:#4CAF50;
+    color: white;
+}
